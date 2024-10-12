@@ -18,7 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthz-13&show_icons=true&locale=en&layout=compact" alt="parthz-13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthz-13&show_icons=true&locale=en" alt="parthz-13" /></p>
-[![An image of @parthz13's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parthz13)](https://holopin.io/@parthz13)
 
+<p><img align="center" src="https://holopin.me/parthz13&" alt="parthz-13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthz-13&" alt="parthz-13" /></p>
