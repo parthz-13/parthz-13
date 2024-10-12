@@ -19,6 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthz-13&show_icons=true&locale=en" alt="parthz-13" /></p>
 
-<p><img align="center" src="https://holopin.me/parthz13" alt="parthz-13" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthz-13&" alt="parthz-13" /></p>
+
+<p><img align="center" src="https://holopin.me/parthz13" alt="parthz-13" /></p>
